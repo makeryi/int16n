@@ -1,0 +1,16 @@
+{
+  "name": "int16n",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsdown"
+  },
+  "dependencies": {
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@int16n/tsconfig": "workspace:*",
+    "@types/node": "catalog:",
+    "tsdown": "catalog:"
+  }
+}

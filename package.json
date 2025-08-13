@@ -1,0 +1,20 @@
+{
+  "name": "int16n-monorepo",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {
+    "@biomejs/biome": "^2.1.4",
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "@trivago/prettier-plugin-sort-imports": "^5.2.2",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.1.5",
+    "prettier": "^3.6.2",
+    "prettier-plugin-packagejson": "^2.5.19",
+    "turbo": "^2.5.5",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  },
+  "packageManager": "pnpm@10.14.0"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "@int16n/tsconfig",
+  "private": true,
+  "type": "module",
+  "files": [
+    "base.json"
+  ]
+}

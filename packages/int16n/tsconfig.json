@@ -1,0 +1,3 @@
+{
+  "extends": "@int16n/tsconfig/base.json"
+}
